@@ -5,7 +5,6 @@ Java application that works with PostgreSQL.
 Простое Java приложение для работы с PostgreSQL.
 
 ## Сборка и запуск
-
 ### Требования
 - Java 17 (или выше)
 - Maven 3.6.0 (или выше)
