@@ -1,8 +1,8 @@
 # Tableware-Database
-Java application that works with PostgreSQL.
+Console Java application that works with PostgreSQL.
 
 ## Описание
-Простое Java приложение для работы с PostgreSQL.
+Простое консольное Java приложение для работы с PostgreSQL.
 
 ## Сборка и запуск
 ### Требования
